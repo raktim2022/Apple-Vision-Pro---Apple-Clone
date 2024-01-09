@@ -14,14 +14,11 @@ Apple Vision Pro is a cutting-edge software that offers advanced image recogniti
 
 ## Technologies Used
 
-- Python
-- Machine Learning Libraries (e.g., TensorFlow, PyTorch)
-- Flask (for the backend)
 - HTML/CSS/JavaScript (for the frontend)
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/Apple-Vision-Pro-Clone.git`
+1. Clone the repository: `git clone https://github.com/raktim2022/Apple-Vision-Pro---Apple-Clone.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ## Usage
